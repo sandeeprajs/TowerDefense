@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - BuildSite
+  - Enemy
+  - Path
+  - Ground
+  - Tower
+  - WayPoint
+  - Exit
+  - Projectile
+  - BuildSiteFull
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - BlockingLayer
+  - Collision
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 1144359219
+    locked: 0
+  - name: Items
+    uniqueID: 2636621639
+    locked: 0
+  - name: Units
+    uniqueID: 533067195
+    locked: 0
+  - name: Projectile
+    uniqueID: 2813540501
+    locked: 0
